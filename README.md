@@ -20,9 +20,13 @@ Frameworks: ASP.NET, BootStrap, HTML
 Technologies: Web Development, Software Debugging, System Integration
 Soft Skills: Leadership, Communication, Teamwork, Ethical Mindset, Problem Solving
 ## 📫 Get in Touch
-I'm always open to collaboration and new opportunities! Feel free to reach out to me via email at puneetpals21@gmail.com or connect with me on LinkedIn.
+I'm always open to collaboration and new opportunities! Feel free to reach out to me via email at puneetpals21@gmail.com or connect with me on 
+  <a href="https://www.linkedin.com/in/puneetpals/" rel="nofollow noreferrer">
+    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
+  </a>.
 
 Let's create something amazing together! 🌟
+
 <!--
 **puneetpals/puneetpals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
