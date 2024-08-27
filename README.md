@@ -1,17 +1,17 @@
 Hi there 👋
 ## 👨‍💻 About Me
-Hey there! 👋 I'm Puneet Pal Singh, a dedicated software developer with a strong foundation in Computer Science and Engineering. My passion lies in creating impactful software solutions, with a special focus on web development and the latest technologies. I bring experience in both frontend and backend development, utilizing frameworks like ASP.NET and JavaScript libraries to build efficient and scalable applications. My journey is driven by a continuous desire to innovate and enhance user experiences through cutting-edge technology.
+Hey there! 👋 I'm Puneet Pal Singh, a dedicated software developer with a strong foundation in Computer Science and Engineering. My passion lies in creating impactful software solutions, with a special focus on web development and the latest technologies. I bring experience in both frontend and backend development, utilizing frameworks like ASP.NET and JavaScript libraries to build efficient and scalable applications. My journey is driven by a continuous desire to innovate and enhance user experiences through cutting-edge technology
 
 ## 🚀 My Projects
 
 🛒 Dynamic eCommerce Hub
-I've developed a sophisticated online shopping platform designed to facilitate seamless eCommerce transactions. Built with the ASP.NET MVC framework, this platform prioritizes user satisfaction and transaction accuracy, ensuring a smooth checkout experience and accommodating a variety of payment methods.
+I've developed a sophisticated online shopping platform designed to facilitate seamless eCommerce transactions. Built with the ASP.NET MVC framework, this platform prioritizes user satisfaction and transaction accuracy, ensuring a smooth checkout experience and accommodating a variety of payment methods
 
 🚦 Oscar Windows App and Web Application
-The Oscar project involves developing advanced tools for configuring and managing Variable Message Signs (VMS) devices. By implementing NTCIP standards and enhancing graphic precision, these applications improve the operational efficiency of VMS devices, ensuring real-time communication across multiple locations.
+The Oscar project involves developing advanced tools for configuring and managing Variable Message Signs (VMS) devices. By implementing NTCIP standards and enhancing graphic precision, these applications improve the operational efficiency of VMS devices, ensuring real-time communication across multiple locations
 
 📊 ITESS XPESS
-This project focuses on real-time data display from digital signboards in tunnels using DWIN touch screens. Through UART communication, the project enhances the monitoring and management of digital signage, providing accurate and dynamic information in specific tunnel environments.
+This project focuses on real-time data display from digital signboards in tunnels using DWIN touch screens. Through UART communication, the project enhances the monitoring and management of digital signage, providing accurate and dynamic information in specific tunnel environments
 
 ## 🛠️ My Skills
 
