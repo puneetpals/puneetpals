@@ -15,11 +15,11 @@ The Oscar project involves developing advanced tools for configuring and managin
 📊 ITESS XPESS
 This project focuses on real-time data display from digital signboards in tunnels using DWIN touch screens. Through UART communication, the project enhances the monitoring and management of digital signage, providing accurate and dynamic information in specific tunnel environments
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=puneetpals&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) ![](https://github-readme-streak-stats.herokuapp.com/?user=puneetpals&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=puneetpals&theme=dark&hide_border=false)![](https://github-readme-stats.vercel.app/api/top-langs/?username=puneetpals&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br/>
 
 ## 📫 Get in Touch
 I'm always open to collaboration and new opportunities! Feel free to reach out to me via email at puneetpals21@gmail.com or connect with me on 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/puneetpals)
 
-Let's create something amazing together! 🌟
+Let's create something amazing together! 🌟<br/>
 [![](https://visitcount.itsvg.in/api?id=puneetpals&icon=10&color=13)](https://visitcount.itsvg.in)
