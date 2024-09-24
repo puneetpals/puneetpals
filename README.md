@@ -1,4 +1,3 @@
-Hi there 👋
 ## 👨‍💻 About Me
 Hey there! 👋 I'm Puneet Pal Singh, a dedicated software developer with a strong foundation in Computer Science and Engineering. My passion lies in creating impactful software solutions, with a special focus on web development and the latest technologies. I bring experience in both frontend and backend development, utilizing frameworks like ASP.NET and JavaScript libraries to build efficient and scalable applications. My journey is driven by a continuous desire to innovate and enhance user experiences through cutting-edge technology
 
